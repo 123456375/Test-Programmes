@@ -8,8 +8,6 @@ import java.util.Scanner;
 				
 			System.out.print("Enter the Age: ");
 			
-			Int age[]={34,78,56,7,12,67,20,50}
-			
 			Scanner in = new Scanner(System.in);
 			
 				int i = in.nextInt();
